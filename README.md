@@ -1,5 +1,5 @@
 ### cuda-programming
 
-### CO 524 Parallel Computers and Algorithms
+### CO 524 Parallel Computing and Algrithms
 
 
