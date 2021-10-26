@@ -2,7 +2,7 @@
 
 ### CO 524 Parallel Computers and Algorithms
 
-### cuda 
+### cuda PR
 
 
 
